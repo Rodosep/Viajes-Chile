@@ -1,0 +1,59 @@
+/*Navbar */
+body {
+    font-family: Helvetica;
+    background-color: black;
+    color: white;
+}
+
+.navbar {
+    background-color: transparent;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+.navbar-brand {
+    font-family: "Oswald";
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+
+/*Quienes_Somos*/
+#Quienes-Somos {
+    font-family: "Oswald";
+    background-color: black;
+    text-decoration-color: rgb(255, 255, 255);
+}
+#Quienes-Somos i {
+    background-color:#9bbbec;
+    
+}
+
+/*Destacados*/
+
+#Destacados {
+
+        font-family: "Oswald";
+        
+}
+
+#Contacto h1 {
+    font-family: "Oswald";
+    font-weight: 52px;
+}
+
+/*Footer*/
+#Footer {
+    background-color: #9bbbec;
+}
+
+#Footer h1 {
+    font-family: "Oswald";
+}
+#Footer a {
+    color: white;
+    text-decoration: none;
+}
+.clase1 {
+    background-color: #9bbbec;
+}
